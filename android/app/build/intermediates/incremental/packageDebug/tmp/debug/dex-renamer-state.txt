@@ -1,0 +1,4 @@
+#Mon Jun 10 14:47:27 CEST 2019
+base.0=/Users/arminsarajlic/Desktop/OurProject/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
