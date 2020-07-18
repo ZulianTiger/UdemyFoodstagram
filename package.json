@@ -28,7 +28,7 @@
     "firebase": "^6.6.0",
     "format-json": "^1.0.3",
     "identity-obj-proxy": "^3.0.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "native-base": "^2.12.1",
     "prop-types": "^15.6.1",
     "querystringify": "2.1.0",
